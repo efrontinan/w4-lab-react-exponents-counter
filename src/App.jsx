@@ -36,12 +36,6 @@ function App () {
         <Exponent count={count} number={4}/>
         <Exponent count={count} number={5}/>
         <Exponent count={count} number={6}/>
-        <p>-------------------------------</p>
-        <ExponentTwo count={count} />
-        <ExponentThree count={count}/>
-        <ExponentFour count={count}/>
-        <ExponentFive count={count}/>
-        <ExponentSix count={count}/>
       </div>
     </div>
   );
